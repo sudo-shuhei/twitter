@@ -1,1 +1,2 @@
-python /Users/sudoshuhei/programs/twitter/tweet.py
+cd /Users/sudoshuhei/programs/twitter
+/anaconda3/envs/twitter/bin/python tweet.py
